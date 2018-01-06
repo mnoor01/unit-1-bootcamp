@@ -60,3 +60,15 @@ countClumps({1, 1, 1, 1, 1}) → 1
 ####7. Sorting sentences
 
 Write a method that takes a String sentence, breaks it up into an ArrayList of Strings (one word per ArrayList element), and prints out the words in alphabetical order.
+
+
+//input is a sentence
+//create an arraylist<Strings>, each element should be one word
+
+
+
+
+
+
+
+
